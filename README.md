@@ -1,11 +1,14 @@
 # VSCode Extensões que uso <br>
 
-***Temas***
+***Temas*** <br>
+
 One Dark Pro | Tema que uso atualmente
 SynthWave '84
 Color Highlight
 
-***Outros***
+<br>
+
+***Outros*** <br>
 
 Visual Studio IntelliCode
 
