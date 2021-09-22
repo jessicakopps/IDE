@@ -2,26 +2,28 @@
 
 ***Temas*** <br>
 
-One Dark Pro | Tema que uso atualmente
-SynthWave '84
-Color Highlight
+- One Dark Pro | Tema que uso atualmente
+- SynthWave '84
+- Color Highlight
 
 <br>
 
 ***Outros*** <br>
 
-Visual Studio IntelliCode
+- Visual Studio IntelliCode
 
-[Deprecated] Debugger for Chrome
-Code Runner
+- [Deprecated] Debugger for Chrome
+- Code Runner
 
-Nodejs Snippets
+- Nodejs Snippets
 
-ESLint
-Remote - WSL | Terminal do Linux
+- ESLint
+- Remote - WSL | Terminal do Linux
 
-Git History
-Markdown Preview Github Styling
-JSX HTML <tags/>
-c#
+- Git History
+- Markdown Preview Github Styling
+- JSX HTML <tags/>
 
+*.NET*
+- C#
+- C# Extensions
