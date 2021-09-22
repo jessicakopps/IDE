@@ -1,5 +1,6 @@
 # Usando o Node.js no terminal do VSC
 
+***No Windows***
 - Instalar node.js
 - Abrir e fechar VSCode
 - Se n funcionar:
