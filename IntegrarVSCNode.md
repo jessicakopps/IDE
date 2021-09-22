@@ -1,4 +1,4 @@
-#Usando o Node.js no terminal do VSC
+# Usando o Node.js no terminal do VSC
 
 - Instalar node.js
 - Abrir e fechar VSCode
