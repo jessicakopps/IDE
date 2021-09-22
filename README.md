@@ -1,4 +1,4 @@
-# VSCode Extensões que uso <br>
+# VSCode - Extensões que uso <br>
 
 ***Temas*** <br>
 
