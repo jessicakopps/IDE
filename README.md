@@ -5,6 +5,7 @@
 - One Dark Pro | Tema que uso atualmente
 - SynthWave '84
 - Color Highlight
+- Material Icon Theme
 
 <br>
 
@@ -27,3 +28,25 @@
 *.NET*
 - C#
 - C# Extensions
+
+*JAVA*
+- Language Support for Java(TM)
+- Maven for Java
+- Project Manager for Java
+- Test Runner for Java
+
+
+*Spring Boot*
+- Spring Boot Dashboard
+- Spring Boot Extension Pack
+- Spring Boot Tools
+- Spring Initializr Java Support
+
+*SQL*
+- PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
+
+
+
+
+
+
