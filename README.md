@@ -20,31 +20,31 @@
 - Remote - WSL | Terminal do Linux
 - JSX HTML <tags/>
 
-*Git*
+***Git***
 - Git History
 
-*Github*
+***Github***
 - Markdown Preview Github Styling
 - GitHub Copilot - https://github.com/github/copilot-docs
 
-*.NET*
+***.NET***
 - C#
 - C# Extensions
 
-*JAVA*
+***JAVA***
 - Language Support for Java(TM)
 - Maven for Java
 - Project Manager for Java
 - Test Runner for Java
 
 
-*Spring Boot*
+***Spring Boot***
 - Spring Boot Dashboard
 - Spring Boot Extension Pack
 - Spring Boot Tools
 - Spring Initializr Java Support
 
-*SQL*
+***SQL***
 - PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
 
 
