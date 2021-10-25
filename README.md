@@ -25,7 +25,7 @@
 
 ***Github***
 - Markdown Preview Github Styling
-- GitHub Copilot - https://github.com/github/copilot-docs
+- GitHub Copilot *Preview* - https://github.com/github/copilot-docs
 <br>
 
 ***.NET***
