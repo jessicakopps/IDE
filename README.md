@@ -6,7 +6,6 @@
 - SynthWave '84
 - Color Highlight
 - Material Icon Theme
-
 <br>
 
 ***Outros*** <br>
@@ -19,6 +18,7 @@
 - ESLint
 - Remote - WSL | Terminal do Linux
 - JSX HTML <tags/>
+<br>
 
 ***Git***
 - Git History
@@ -26,6 +26,7 @@
 ***Github***
 - Markdown Preview Github Styling
 - GitHub Copilot - https://github.com/github/copilot-docs
+<br>
 
 ***.NET***
 - C#
