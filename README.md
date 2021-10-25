@@ -20,6 +20,13 @@
 - Remote - WSL | Terminal do Linux
 - JSX HTML <tags/>
 
+*Git*
+- Git History
+
+*Github*
+- Markdown Preview Github Styling
+- GitHub Copilot - https://github.com/github/copilot-docs
+
 *.NET*
 - C#
 - C# Extensions
@@ -40,9 +47,4 @@
 *SQL*
 - PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
 
-*Git*
-- Git History
 
-*Github*
-- Markdown Preview Github Styling
-- GitHub Copilot -https://github.com/github/copilot-docs
