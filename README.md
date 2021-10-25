@@ -11,18 +11,13 @@
 
 ***Outros*** <br>
 
-- Visual Studio IntelliCode
-
-- [Deprecated] Debugger for Chrome
 - Code Runner
+- Visual Studio IntelliCode
+- [Deprecated] Debugger for Chrome
 
 - Nodejs Snippets
-
 - ESLint
 - Remote - WSL | Terminal do Linux
-
-- Git History
-- Markdown Preview Github Styling
 - JSX HTML <tags/>
 
 *.NET*
@@ -45,8 +40,9 @@
 *SQL*
 - PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
 
+*Git*
+- Git History
 
-
-
-
-
+*Github*
+- Markdown Preview Github Styling
+- GitHub Copilot -https://github.com/github/copilot-docs
