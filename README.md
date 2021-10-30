@@ -44,6 +44,7 @@
 - Spring Boot Extension Pack
 - Spring Boot Tools
 - Spring Initializr Java Support
+- Java Code Generators - Getters and Setters etc
 
 ***SQL***
 - PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
