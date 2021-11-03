@@ -11,7 +11,6 @@
 - Bracket Pair Colorizer | Pares de parênteses com cores únicas
 - Polacode | Criar snippets de códigos 
 - Live Share | Para pair programming, permite que 2 pessoas codem juntas dentro do mesmo VSCode
-- 
 <br>
 
 ***Outros*** <br>
