@@ -1,6 +1,6 @@
 # VSCode
 
-## 🧮 Extensões que uso
+***🧮 Extensões que uso***
 
 ### Temas <br>
 
