@@ -1,6 +1,7 @@
 # VSCode
 IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correção de codigo
 
+---
 ## 🧮 Extensões que uso
 
 ### Temas <br>
@@ -82,3 +83,4 @@ IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correç
 - Shift + Alt + F | indentar
 - CTRL + ALT + N | code runner js
 - F5 | run java
+- Selecione elemento + CTRL + D | Seleciona os proximos elementos iguais ao que foi selecionado
