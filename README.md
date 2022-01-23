@@ -1,6 +1,7 @@
 # VSCode
+IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correção de codigo
 
-***🧮 Extensões que uso***
+## 🧮 Extensões que uso***
 
 ### Temas <br>
 
@@ -51,6 +52,7 @@
 
 ### SQL
 - PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
+<br>
 
 ---
 ## 💻 Usando o Node.js no terminal do VSC
@@ -61,5 +63,24 @@
   - abra Variáveis do Ambiente, 
   - em Path procure se há o caminho onde o node.js está instalado. 
   - se não tiver, adicione. Ex: C:\ProgramFiles\nodejs  
+<br>
 
+---
+## 💻 Configurações 
 
+# Tab Size | Indentação
+
+- Settings
+- Workspace
+  - Editor: Detect Indentation - Desmarcar
+  - Editorr: TAb Size -  2
+<br>
+
+---
+## 🗺️ Atalhos Windows
+
+# Tab Size | Indentação
+
+- Shift + Alt + F | indentar
+- CTRL + ALT + N | code runner js
+- F5 | run java
