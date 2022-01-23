@@ -1,6 +1,6 @@
 # VSCode
 
-🧮 ## Extensões que uso
+## 🧮 Extensões que uso
 
 ### Temas <br>
 
@@ -53,7 +53,7 @@
 - PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
 
 ---
-💻 ## Usando o Node.js no terminal do VSC
+## 💻 Usando o Node.js no terminal do VSC
 
 - Instalar node.js
 - Abrir e fechar VSCode
