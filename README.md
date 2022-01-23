@@ -13,7 +13,6 @@
 - Bracket Pair Colorizer | Pares de parênteses com cores únicas
 - Polacode | Criar snippets de códigos 
 - Live Share | Para pair programming, permite que 2 pessoas codem juntas dentro do mesmo VSCode
-<br>
 
 ### Outros <br>
 
@@ -32,7 +31,6 @@
 ### Github
 - Markdown Preview Github Styling
 - GitHub Copilot *Preview* - https://github.com/github/copilot-docs | Aumenta a produtividade ajudando a gerar código repetitivos
-<br>
 
 ### .NET
 - C#
@@ -43,7 +41,6 @@
 - Maven for Java
 - Project Manager for Java
 - Test Runner for Java
-
 
 ### Spring Boot
 - Spring Boot Dashboard
