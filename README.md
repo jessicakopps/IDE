@@ -25,7 +25,6 @@
 - ESLint
 - Remote - WSL | Terminal do Linux
 - JSX HTML <tags/>
-<br>
 
 ### Git
 - Git History
