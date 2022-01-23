@@ -1,6 +1,8 @@
-# VSCode - Extensões que uso <br>
+# VSCode
 
-***Temas*** <br>
+## Extensões que uso
+
+### Temas <br>
 
 - One Dark Pro | Tema que uso atualmente
 - SynthWave '84
@@ -13,7 +15,7 @@
 - Live Share | Para pair programming, permite que 2 pessoas codem juntas dentro do mesmo VSCode
 <br>
 
-***Outros*** <br>
+### Outros <br>
 
 - Code Runner
 - Visual Studio IntelliCode
@@ -25,33 +27,43 @@
 - JSX HTML <tags/>
 <br>
 
-***Git***
+### Git
 - Git History
 
-***Github***
+### Github
 - Markdown Preview Github Styling
 - GitHub Copilot *Preview* - https://github.com/github/copilot-docs | Aumenta a produtividade ajudando a gerar código repetitivos
 <br>
 
-***.NET***
+### .NET
 - C#
 - C# Extensions
 
-***JAVA***
+### JAVA
 - Language Support for Java(TM)
 - Maven for Java
 - Project Manager for Java
 - Test Runner for Java
 
 
-***Spring Boot***
+### Spring Boot
 - Spring Boot Dashboard
 - Spring Boot Extension Pack
 - Spring Boot Tools
 - Spring Initializr Java Support
 - Java Code Generators - Getters and Setters etc
 
-***SQL***
+### SQL
 - PostgreSQL - https://data-nerd.blog/2020/02/06/postgresql-extension-for-vscode/
+
+---
+# Usando o Node.js no terminal do VSC
+
+- Instalar node.js
+- Abrir e fechar VSCode
+- Se n funcionar (Windows):
+  - abra Variáveis do Ambiente, 
+  - em Path procure se há o caminho onde o node.js está instalado. 
+  - se não tiver, adicione. Ex: C:\ProgramFiles\nodejs  
 
 
