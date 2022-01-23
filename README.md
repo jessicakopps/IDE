@@ -1,7 +1,7 @@
 # VSCode
 IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correção de codigo
 
-## 🧮 Extensões que uso***
+## 🧮 Extensões que uso
 
 ### Temas <br>
 
@@ -66,9 +66,9 @@ IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correç
 <br>
 
 ---
-## 💻 Configurações 
+## ⚙️ Configurações 
 
-# Tab Size | Indentação
+### Tab Size | Indentação
 
 - Settings
 - Workspace
@@ -78,8 +78,6 @@ IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correç
 
 ---
 ## 🗺️ Atalhos Windows
-
-# Tab Size | Indentação
 
 - Shift + Alt + F | indentar
 - CTRL + ALT + N | code runner js
