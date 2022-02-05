@@ -26,6 +26,7 @@ IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correç
 - ESLint
 - Remote - WSL | Terminal do Linux
 - JSX HTML <tags/>
+- Blox | gerador the código frontend
 
 ### Git
 - Git History
