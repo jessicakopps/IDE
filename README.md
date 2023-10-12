@@ -7,6 +7,7 @@ IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correç
 ### Temas <br>
 
 - One Dark Pro | Tema que uso atualmente
+- Hotline
 - SynthWave '84
 - Color Highlight
 - Material Icon Theme
@@ -20,7 +21,6 @@ IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correç
 
 - Code Runner
 - Visual Studio IntelliCode
-- [Deprecated] Debugger for Chrome
 
 - Nodejs Snippets
 - ESLint
@@ -33,7 +33,11 @@ IDE - ambiente integrado de desenvolvimento = compilador, interpretador, correç
 
 ### Github
 - Markdown Preview Github Styling
-- GitHub Copilot *Preview* - https://github.com/github/copilot-docs | Aumenta a produtividade ajudando a gerar código repetitivos
+- GitHub Copilot - https://github.com/github/copilot-docs | Aumenta a produtividade ajudando a gerar código repetitivos
+
+### Front <br>
+- Hex to RGB
+- Easy less
 
 ### .NET
 - C#
